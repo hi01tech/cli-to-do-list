@@ -1,0 +1,21 @@
+{
+  "name": "hi01tech_to_do_list",
+  "version": "1.0.0",
+  "description": "\" TO-DO list build with Typescript, Node.js and Inquirer\"",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Haneen I.",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.23",
+    "save": "^2.9.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
